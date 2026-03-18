@@ -70,6 +70,3 @@ widget/                   # Embeddable chat widget source
 public/                   # Static assets and built widget
 ```
 
-## License
-
-MIT
